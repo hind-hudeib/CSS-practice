@@ -1,0 +1,16 @@
+
+  table.test {
+    border-collapse: separate;
+    border-spacing: 10px;
+    *border-collapse: expression('separate', cellSpacing='10px');
+  }
+  
+  td{
+    border-color: black;
+    border: 1px solid black;
+    margin: 12px 12px 12px 12px;
+    padding: 12px 12px 12px 12px;
+    border-radius: 10%;
+    box-shadow: 3px 2px rgb(190, 190, 190);
+
+  }

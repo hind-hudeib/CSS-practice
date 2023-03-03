@@ -1,0 +1,29 @@
+h1{
+    text-decoration-line: underline;
+}
+
+#blueText{
+    color: #335edf;
+}
+
+.yelloLinks{
+    color: #fbdb4c;
+}
+
+.redLinks{
+    color: #ff4949;
+}
+
+.boldText{
+    font-weight: bold;
+}
+
+.blueList{
+    color: #4f72da;
+}
+
+#noDotsList{
+    list-style-type: none;
+
+}
+
