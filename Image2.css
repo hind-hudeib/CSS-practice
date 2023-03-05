@@ -1,5 +1,4 @@
 body{
-    text-align: center;
     background-color: #fffad4;
 
 }
@@ -9,7 +8,9 @@ body{
     height: 180px;
     background-color: rgb(163, 161, 161);
     display: inline-block;
+    padding: 10px;
     margin: 5px
+    
 }
 .my_scroll_div{   
     background-color: #fffad4;

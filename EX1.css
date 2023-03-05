@@ -1,12 +1,4 @@
-.yellow{
-    width: 50px;
-    height: 50px;
-    background-color: rgb(255, 255, 118);
-    display: inline-block;
-    margin: 5px;
-}
-
-.green{
+div:nth-child(even){
     width: 50px;
     height: 50px;
     background-color: rgb(101, 223, 74);
@@ -14,5 +6,39 @@
     margin: 5px;
     position: relative;
     top: 20px;
+    border: 2px solid rgb(84, 83, 83);
+
 }
+
+.firstSec div:nth-child(odd){
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 246, 68);
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    border: 2px solid rgb(84, 83, 83);
+}
+
+.secondSec div{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(204, 34, 34);
+    display: inline-block;
+    text-align: center;
+    font-size: x-large;
+    color: #ffffff;
+
+}
+
+.secondSec div:nth-child(even){
+    display: none;
+}
+
+
+h1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
 
