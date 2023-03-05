@@ -1,0 +1,18 @@
+.yellow{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 118);
+    display: inline-block;
+    margin: 5px;
+}
+
+.green{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(101, 223, 74);
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    top: 20px;
+}
+

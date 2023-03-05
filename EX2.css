@@ -1,0 +1,15 @@
+.inner{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(204, 34, 34);
+    display: inline-block;
+    text-align: center;
+    font-size: x-large;
+    color: #ffffff;
+
+}
+
+div:nth-child(even){
+    display: none;
+}
+
