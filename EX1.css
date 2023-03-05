@@ -35,10 +35,9 @@ div:nth-child(even){
     display: none;
 }
 
-
-h1{
-    margin-bottom: 30px;
-    margin-top: 30px;
+.secondSec{
+    margin-top: 200px;
 }
+
 
 
